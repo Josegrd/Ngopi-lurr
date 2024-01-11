@@ -1,0 +1,14 @@
+
+.navbar-style li:hover{
+    border-bottom: 3px solid #FF6700;
+    color: #FF6700;
+}
+
+.navbar-style a:hover{
+    color: #FF6700;
+}
+
+#header{
+    
+    background-color: rgb(33, 37, 41);
+}
