@@ -12,3 +12,18 @@
     
     background-color: rgb(33, 37, 41);
 }
+
+.featurette-heading{
+    color:#FF6700;
+}
+
+.header-title{
+    color:#FF6700;
+}
+
+.btn-custom:hover{
+    background-color:#FF6700 ;
+    border: #FF6700;
+    color: white;
+}
+
